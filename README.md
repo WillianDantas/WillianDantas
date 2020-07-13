@@ -1,6 +1,6 @@
 ### Oie! Sou Willian Dantas 👋
 
-💻 Analista Sistema Pleno - Desenvolvedora em Linx / Windows 🏡 Brasileiro 🌎 Rio de janeiro ✈️ Brasil
+💻 Analista Sistema Pleno - Desenvolvedor em .Net | .Net Core | Java  🏡 Brasileiro 🌎 Rio de janeiro ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
