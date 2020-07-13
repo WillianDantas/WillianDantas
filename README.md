@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oie! Sou Willian Dantas 👋
 
-<!--
-**williansilva1991/williansilva1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista Sistema Pleno - Desenvolvedora em Linx / Windows 🏡 Brasileiro 🌎 Rio de janeiro ✈️ Brasil
 
-Here are some ideas to get you started:
+### Encontre-me por aqui 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-WillianDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)](https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)
+[![Gmail Badge](https://img.shields.io/badge/-williansilva1991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:lari.santosazevedo@gmail.com)
+
+💻 Atualmente trabalho com Petrobras <br>
+📚 Estudando machine learning e deep learning<br>
+🎮 Terminando Graduação em Ciência da Computação<br>
+
+Obrigada pela visita!
+</samp>
+
