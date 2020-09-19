@@ -3,9 +3,9 @@
 💻 Analista Sistema Pleno - Desenvolvedor em .Net | .Net Core | Java  🏡 Brasileiro 🌎 Rio de janeiro ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-WillianDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)](https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)
-[![Gmail Badge](https://img.shields.io/badge/-williansilva1991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:lari.santosazevedo@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillianDantas)](https://github.com/WillianDantas)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-dantas-0b8b77112)](https://www.linkedin.com/in/willian-dantas-0b8b77112)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williansilva1991@gmail.com)](mailto:williansilva1991@gmail.com)
 
 💻 Atualmente trabalho com Petrobras <br>
 📚 Estudando machine learning e deep learning<br>
