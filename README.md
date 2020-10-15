@@ -1,5 +1,8 @@
 ### Oie! Sou Willian Dantas 👋
 
+<img title="Willian Dantas GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=WillianDantas&hide=issues&count_private=true&icon_color=871489&title_color=01057d&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
+/>
+
 💻 Analista Sistema Pleno - Desenvolvedor em .Net | .Net Core | Java  🏡 Brasileiro 🌎 Rio de janeiro ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
