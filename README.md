@@ -7,16 +7,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-dantas-0b8b77112)](https://www.linkedin.com/in/willian-dantas-0b8b77112)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williansilva1991@gmail.com)](mailto:williansilva1991@gmail.com)
 
-💻 Atualmente trabalho com Petrobras <br>
-📚 Estudando machine learning e deep learning<br>
-🎮 Terminando Graduação em Ciência da Computação<br>
+💻 Atualmente trabalho com Petrobras <br/>
+📚 Estudando machine learning e deep learning<br/>
+🎮 Terminando Graduação em Ciência da Computação<br/>
 
+### GitHub Stats
 <img title="Willian Dantas GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=WillianDantas&hide=issues&count_private=true&icon_color=79ff97&text_color=fff&title_color=fff&bg_color=151515&show_icons=true)"
 />
 
-<img title="Willian Dantas wakatime stats" align="right" heigth="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&title_color=000" />
+<img title="Willian Dantas wakatime stats" align="right" heigth="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&title_color=000" /><br/>
 
-<br>
 
 Obrigada pela visita!
 </samp>
