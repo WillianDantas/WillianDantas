@@ -1,7 +1,11 @@
 ### Oie! Sou Willian Dantas 👋
 
-<img title="Willian Dantas GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=WillianDantas&hide=issues&count_private=true&icon_color=871489&title_color=01057d&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
+<img title="Willian Dantas GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=WillianDantas&hide=issues&count_private=true&icon_color=79ff97&text_color=fff&title_color=fff&bg_color=151515&show_icons=true)"
 />
+
+<img title="Willian Dantas wakatime stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&title_color=000" />
+
+
 
 💻 Analista Sistema Pleno - Desenvolvedor em .Net | .Net Core | Java  🏡 Brasileiro 🌎 Rio de janeiro ✈️ Brasil
 
