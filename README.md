@@ -16,6 +16,8 @@
 
 <img title="Willian Dantas wakatime stats" align="right" heigth="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&title_color=000" />
 
+<br>
+
 Obrigada pela visita!
 </samp>
 
