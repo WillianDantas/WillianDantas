@@ -17,6 +17,7 @@
 />
 
 <img title="Willian Dantas wakatime stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&title_color=000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&theme=tokyonight">
 
 <br/>
 
