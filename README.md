@@ -16,7 +16,7 @@
 <img title="Willian Dantas GitHub Stats" align="left" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=WillianDantas&hide=issues&count_private=true&icon_color=79ff97&text_color=fff&title_color=fff&bg_color=151515&show_icons=true)"
 />
 
-<img title="Willian Dantas wakatime stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&title_color=000" />
+<img title="Willian Dantas wakatime stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDantas&layout=compact&langs_count=8&title_color=000" />
 
 
 <br/>
